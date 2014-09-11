@@ -1,5 +1,9 @@
 package com.incra
 
+/**
+ * @author Jeffrey Risberg
+ * @since October 2010
+ */
 class UserController {
 
   static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
